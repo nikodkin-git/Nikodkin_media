@@ -4,7 +4,11 @@ layout: default
 
 # Добро пожаловать!
 
-Меня зовут **Никита**. Я обучаюсь Аналитике/Бизнес аналитике
+Меня зовут **Никита**. И я поставил проект 3 цели 12 недель за которые я с 0 буду изучать такие направления как: 
+
+- Аналитика (По [Roadmap.sh](https://roadmap.sh/data-analyst) и [gitbook](https://rema.gitbook.io/it-business-system-analyst/?ref=vc.ru)  
+- Blender
+- Linux 
 
 ## Мои социальные сети
 

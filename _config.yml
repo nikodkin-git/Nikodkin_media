@@ -1,9 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
-
-
 title: Nidodkin_media
 description: Сайт про мою оффлайн/онлайн деятельность
+remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: false 
 
-# Ссылки на соцсети
-social_links:
-  telegramm: https://nikodkin-git.github.io/Nikodkin_media/

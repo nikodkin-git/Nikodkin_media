@@ -1,4 +1,9 @@
 remote_theme: pages-themes/minimal@v0.2.0
 
 
-*Пример мой текст ахах*
+title: Nidodkin_media
+description: Сайт про мою оффлайн/онлайн деятельность
+
+# Ссылки на соцсети
+social_links:
+  telegramm: https://nikodkin-git.github.io/Nikodkin_media/

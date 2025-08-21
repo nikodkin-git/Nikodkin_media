@@ -16,3 +16,8 @@ layout: default
 - [YouTube](https://www.youtube.com/@Nikodkin)
 - [Steapik](https://stepik.org/users/1093001498/profile)
 - [GitHub](https://github.com/nikodkin-git)
+
+## [Посмотреть мои статьи](/blog)
+
+
+

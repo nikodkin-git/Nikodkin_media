@@ -1,8 +1,4 @@
 # Nikodkin_media
 Информация про мою деятельность в оффлайн/онлайн
 
-
-**Пример редактированного текста**
-
-
-Ссылка на соц сети https://t.me/Nikodkin_TG
+Ссылка на сайт: https://nikodkin-git.github.io/Nikodkin_media/
